@@ -21,11 +21,11 @@ A Flutter app built as part of the Qtec Solution assignment. The app displays a 
 - **Shimmer**: Loading placeholders
 - **connectivity_plus**: Network status detection
 
-## 📸 Screenshots
+## 📸 Screenshots![WhatsApp Image 2025-04-21 at 23 16 31_51d7374f](https://github.com/user-attachments/assets/cd5bb279-ef8e-4e6c-b978-4aa9e699215f)
 
-| Home Page | Search Page |
-|-----------|-------------|
-| ![home](screenshots/home.png) | ![search](screenshots/search.png) |
+
+
+
 
 ## 🚀 Getting Started
 
