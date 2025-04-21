@@ -23,6 +23,7 @@ A Flutter app built as part of the Qtec Solution assignment. The app displays a 
 
 ## 📸 Screenshots![WhatsApp Image 2025-04-21 at 23 16 31_51d7374f](https://github.com/user-attachments/assets/cd5bb279-ef8e-4e6c-b978-4aa9e699215f)
 
+![WhatsApp Image 2025-04-21 at 23 16 28_fd886e0d](https://github.com/user-attachments/assets/8555e21e-81b3-48df-9d65-2644bbd866d7)
 
 
 
