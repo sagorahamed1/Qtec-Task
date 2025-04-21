@@ -21,9 +21,9 @@ A Flutter app built as part of the Qtec Solution assignment. The app displays a 
 - **Shimmer**: Loading placeholders
 - **connectivity_plus**: Network status detection
 
-## 📸 Screenshots![WhatsApp Image 2025-04-21 at 23 16 31_51d7374f](https://github.com/user-attachments/assets/cd5bb279-ef8e-4e6c-b978-4aa9e699215f)
-
-![WhatsApp Image 2025-04-21 at 23 16 28_fd886e0d](https://github.com/user-attachments/assets/8555e21e-81b3-48df-9d65-2644bbd866d7)
+## 📸 Screenshots!
+![WhatsApp Image 2025-04-21 at 23 16 31_51d7374f](https://github.com/user-attachments/assets/6264e21e-e70e-4dbd-898f-a72d5eedbddf)
+![WhatsApp Image 2025-04-21 at 23 16 28_fd886e0d](https://github.com/user-attachments/assets/2d6bd55c-d766-4db6-8d18-0bc57980ca34)
 
 
 
@@ -34,3 +34,5 @@ A Flutter app built as part of the Qtec Solution assignment. The app displays a 
    ```bash
    git clone https://github.com/yourusername/qtec_product_app.git
    cd qtec_product_app
+![WhatsApp Image 2025-04-21 at 23 16 28_f4f54217](https://github.com/user-attachments/assets/577caee2-4f94-4961-b660-314b6e3f1a75)
+
